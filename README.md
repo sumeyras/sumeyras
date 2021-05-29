@@ -1,10 +1,10 @@
 <h1 align="center">Sümeyra Çakmak</h1>
 <h3 align="center">Software Engineer</h3>
-
-<br/>
 <br/>
 
-<p align="left"> 
+### Languages & Tools
+
+<p align="left" style="margin:0px 50px 50px"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -19,7 +19,16 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
+<br/>
 
+### <font color="#631504">Contact Me</font>
+
+[linkedin]: https://www.linkedin.com/in/sumeyracakmak/
+
+[<img height="32" width="32" src="https://image.flaticon.com/icons/png/128/2504/2504923.png" align="left" />][linkedin]
+
+<br/>
+<br/>
 <br/>
 
 <details>
