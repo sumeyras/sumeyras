@@ -1,4 +1,4 @@
-<h1 align="center">Sümeyra Çakmak</h1>
+<h2 align="center">Sümeyra Çakmak</h2>
 <h3 align="center">Software Engineer</h3>
 <br/>
 
